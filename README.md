@@ -63,7 +63,7 @@ Evaluated on an isolated CPU/RAM-constrained runtime environment (`--cpus=0.5`, 
 ### 1. Prerequisites & Environment Setup
 
 ```bash
-git clone https://github.com/your-username/edge-ai-gesture-control.git
+git clone https://github.com/Shasank-Bommineni/int8-gesture-control
 cd edge-ai-gesture-control
 
 # Create and activate virtual environment (Windows PowerShell)
